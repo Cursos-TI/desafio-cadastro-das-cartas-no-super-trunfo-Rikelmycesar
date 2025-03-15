@@ -1,4 +1,5 @@
 #include <stdio.h>
+int populacao;
 
 // Desafio Super Trunfo - Países
 // Tema 1 - Cadastro das Cartas
